@@ -1,1 +1,3 @@
 Cin >> chao sssssdfasdfasd
+Cout<< "Heloo word"
+Co doi roi
