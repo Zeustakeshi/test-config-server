@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 hello
-=======
 123
->>>>>>> 957c565 (update hello.txt)
 Cin >> chao sssssdfasdfasd
 
 Cout<< "Heloo word"
