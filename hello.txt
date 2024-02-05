@@ -1,1 +1,1 @@
-Cin >> chao
+Cin >> chao 02s
