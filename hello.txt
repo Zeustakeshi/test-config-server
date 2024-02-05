@@ -1,4 +1,5 @@
 Cin >> chao sssssdfasdfasd
 
-asdfkajsdf
-asdfsad
+Cout<< "Heloo word"
+Co doi roi
+
