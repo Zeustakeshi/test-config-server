@@ -1,3 +1,4 @@
+hello
 Cin >> chao sssssdfasdfasd
 
 Cout<< "Heloo word"
